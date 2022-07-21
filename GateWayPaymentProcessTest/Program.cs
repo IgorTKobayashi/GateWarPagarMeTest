@@ -11,7 +11,7 @@ namespace GateWayPaymentProcessTest
 
         public static async Task Main(string[] args)
         {
-
+            // you can put the key on the UserName and left the password in blank for the test
             // Configuration parameters and credentials
             string basicAuthUserName = ""; // The username to use with basic authentication
             string basicAuthPassword = ""; // The password to use with basic authentication
